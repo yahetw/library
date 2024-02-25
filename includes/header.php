@@ -56,11 +56,11 @@
                     <div class="navbar-collapse collapse ">
                         <ul id="menu-top" class="nav navbar-nav navbar-right">                        
                           
-      <li><a href="index.php">Home</a></li>
-      <li><a href="index.php#ulogin">User Login</a></li>
-                            <li><a href="signup.php">User Signup</a></li>
+      <li><a href="index.php">首頁</a></li>
+      <li><a href="index.php#ulogin">使用者登入</a></li>
+                            <li><a href="signup.php">使用者註冊</a></li>
                          
-                            <li><a href="adminlogin.php">Admin Login</a></li>
+                            <li><a href="adminlogin.php">管理員登入</a></li>
 
                         </ul>
                     </div>

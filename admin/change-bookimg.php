@@ -51,7 +51,7 @@ echo "<script>window.location.href='manage-books.php'</script>";
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Online Library Management System | Edit Book</title>
+    <title>圖書借閱系統 Online Library Management System | Edit Book</title>
     <!-- BOOTSTRAP CORE STYLE  -->
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
     <!-- FONT AWESOME STYLE  -->

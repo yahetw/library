@@ -17,7 +17,7 @@ else{?>
     <!--[if IE]>
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <![endif]-->
-    <title>Online Library Management System | Admin Dash Board</title>
+    <title>圖書借閱系統 Online Library Management System | Admin Dash Board</title>
     <!-- BOOTSTRAP CORE STYLE  -->
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
     <!-- FONT AWESOME STYLE  -->
